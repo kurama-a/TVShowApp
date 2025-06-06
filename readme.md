@@ -1,7 +1,3 @@
-Voici un modèle complet de README pour ton projet Android de consultation de séries TV avec Retrofit, Jetpack Compose et Hilt. Tu peux bien sûr l’adapter selon tes besoins.
-
----
-
 # TVShowsApp
 
 Application Android pour afficher une liste de séries TV populaires, développée avec Kotlin, Jetpack Compose, Retrofit et Dagger Hilt.
